@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinadq2&label=Profile%20views&color=0e75b6&style=flat" alt="husseinadq2" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **husseinadq2@gmail.com**
 
