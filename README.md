@@ -96,11 +96,3 @@ I am an innovative and driven **Full-stack Developer** with a solid foundation i
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinadq&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinadq&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinadq2&" alt="GitHub Streak" />
-</p>
