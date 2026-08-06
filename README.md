@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hussein Al-Mansouri
-
-### Backend Software Engineer · Cloud & AI Systems
-
-Building reliable APIs, business platforms, and Arabic-first products.
+<h1>Hussein Al-Mansouri</h1>
+<h3>Backend & AI Engineer · Python · FastAPI · Cloud</h3>
+<p>I build and ship production APIs, AI-powered products, and the infrastructure they run on.</p>
 
 <a href="mailto:husseinadq2@gmail.com">
   <img src="https://img.shields.io/badge/Email-husseinadq2%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -16,77 +14,80 @@ Building reliable APIs, business platforms, and Arabic-first products.
   <img src="https://img.shields.io/badge/Portfolio-Trameaz-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
+<p><strong>Open to remote roles worldwide</strong> · UTC+3 · flexible overlap with EU and US hours</p>
+
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a backend software engineer with 4+ years of experience designing, building, deploying, and operating web systems. My core background is in PHP and Laravel, and I increasingly build production services with Python and FastAPI.
+Backend engineer with 4+ years of experience designing, building, deploying, and operating web systems end to end. I work primarily in Python and FastAPI today, with a deep PHP/Laravel background behind me.
 
-I work across the complete software delivery lifecycle: translating business requirements into architecture, designing APIs and databases, containerizing applications, implementing CI/CD, and running workloads on cloud and VPS infrastructure.
+I own the full delivery path: turning requirements into architecture, designing APIs and data models, containerizing services, building CI/CD, and running workloads in production on GCP, AWS, and Linux VPSs. Everything listed below under Projects is something I built and shipped myself — including the parts that were not fun.
 
-My current technical direction is production AI engineering, including LLM-powered applications, AI agents, MCP integrations, Arabic data systems, model deployment, and MLOps on GCP.
+My current direction is production AI engineering: LLM-powered applications, agent systems, MCP integrations, model serving, and MLOps.
 
-- Based in Saudi Arabia
-- Focused on backend engineering, cloud infrastructure, and applied AI
-- Interested in building useful Arabic-first software for businesses across MENA
+I work asynchronously and write things down. Several of the projects below were built solo from empty repository to live users, which means the specs, decisions, and postmortems all had to exist in writing.
 
-## What I Do
-
-- Design maintainable REST APIs and backend architectures
-- Build products from initial idea through production deployment
-- Develop business systems using FastAPI, Laravel, PostgreSQL, and MySQL
-- Containerize and deploy applications using Docker, GCP, AWS, and Linux VPSs
-- Build CI/CD pipelines with GitHub Actions
-- Integrate LLM APIs, AI agents, MCP servers, and retrieval workflows
-- Create Arabic-first applications and datasets
+---
 
 ## Selected Projects
 
-### [Sammim — صمم](https://sammim.trameaz.com)
-A production application published on the Salla App Store and used by real merchants to create marketing content.
+### [Sammim](https://sammim.trameaz.com)
 
-`FastAPI` `Vue 3` `GCP Cloud Run` `AI Integration`
+An AI content-generation app for e-commerce merchants. Passed public marketplace review and is live on the Salla App Store, used by real merchants in production.
+
+`FastAPI` `Vue 3` `GCP Cloud Run` `LLM Integration`
+
+### [Synthabase](https://synthabase.com)
+
+A 50,000-conversation dataset published on Hugging Face, built to support language model research. Covered the whole pipeline: generation, deduplication, quality filtering, formatting, and public release.
+
+`Dataset Engineering` `Data Pipelines` `Hugging Face` `NLP`
 
 ### [Trameaz](https://trameaz.com)
-An AI-powered platform helping small businesses in Saudi Arabia create landing pages and marketing content.
+
+An AI-powered SaaS platform that generates landing pages and marketing content for small businesses. Built and deployed as a full product, from billing to infrastructure.
 
 `Laravel` `Vue.js` `SaaS` `Production Deployment`
 
-### [Synthabase](https://synthabase.com)
-A dataset project containing 50,000 Arabic conversations, created to support Arabic language and AI research.
-
-`Dataset Engineering` `Arabic NLP` `Hugging Face` `Data Processing`
-
 ### [Basta](https://t.me/BastaStoreBot)
-An Arabic-first Telegram storefront bot that helps small merchants create and manage simple online stores.
 
-`FastAPI` `aiogram` `Vue 3` `PostgreSQL` `GCP Cloud Run`
+A Telegram-native storefront where creators sell digital products, with payments handled through Telegram Stars. Async Python service backed by Postgres, deployed on Cloud Run.
 
-### Fawtara — In Development
-A business platform for managing tenders, quotations, and related workflows for Saudi companies.
+`FastAPI` `aiogram 3` `SQLAlchemy async` `PostgreSQL` `GCP Cloud Run`
+
+### Fawtera — in development
+
+A business platform for tenders, quotations, and invoicing workflows, including full right-to-left document rendering and PDF generation.
 
 `FastAPI` `Vue 3` `PostgreSQL` `GCP`
+
+---
 
 ## Technical Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Backend** | Python, FastAPI, PHP, Laravel, SQLAlchemy, REST APIs |
-| **Databases** | PostgreSQL, MySQL, SQLite, Firestore, Neon |
+| **Backend** | Python, FastAPI, SQLAlchemy, PHP, Laravel, REST APIs |
+| **Databases** | PostgreSQL, MySQL, SQLite, Neon, Firestore |
 | **Cloud & DevOps** | GCP, AWS, Docker, GitHub Actions, Nginx, Linux, CI/CD |
 | **Frontend** | Vue 3, Nuxt, TypeScript, Tailwind CSS |
-| **Applied AI** | LLM APIs, AI agents, MCP, RAG, dataset engineering, Arabic NLP |
+| **Applied AI** | LLM APIs, agents, MCP, RAG, dataset engineering, model serving |
+
+---
 
 ## Current Focus
 
-I am strengthening my skills in production model serving and MLOps by deploying open-source AI models on GCP with containerized, observable, and reproducible infrastructure.
+Building containerized model-serving infrastructure on GCP — deploying open-source models with reproducible builds, observability, and sane rollback paths.
+
+I also have a particular interest in Arabic-language AI systems, an area with far less tooling and far worse benchmarks than English. Working there has meant solving tokenization, right-to-left rendering, and evaluation problems that do not come pre-solved in any library.
 
 ---
 
 <div align="center">
 
-Open to Backend, Python/FastAPI, Cloud, and AI Engineering opportunities.
+Open to remote Backend, Python/FastAPI, Cloud, and AI Engineering roles.
 
 </div>
