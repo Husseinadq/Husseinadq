@@ -1,20 +1,23 @@
 <div align="center">
 
-<h1>Hussein Al-Mansouri</h1>
-<h3>Backend & AI Engineer · Python · FastAPI · Cloud</h3>
-<p>I build and ship production APIs, AI-powered products, and the infrastructure they run on.</p>
+# Hussein Al-Mansouri
+
+### Software Engineer · Backend, AI & Cloud Systems
+
+I design, build, and deploy useful software products — from backend architecture and data models to user-facing applications and cloud infrastructure.
 
 <a href="mailto:husseinadq2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-husseinadq2%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/hussein-al-mansouri-825a64292/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://trameaz.com">
-  <img src="https://img.shields.io/badge/Portfolio-Trameaz-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://miqrar.com">
+  <img src="https://img.shields.io/badge/Flagship_Project-Miqrar-691236?style=flat-square&logo=googlechrome&logoColor=white" alt="Miqrar" />
 </a>
 
-<p><strong>Open to remote roles worldwide</strong> · UTC+3 · flexible overlap with EU and US hours</p>
+**Open to remote Backend, Python/FastAPI, Cloud, and AI Engineering opportunities.**  
+UTC+3 · Jeddah, Saudi Arabia
 
 </div>
 
@@ -22,47 +25,57 @@
 
 ## About
 
-Backend engineer with 4+ years of experience designing, building, deploying, and operating web systems end to end. I work primarily in Python and FastAPI today, with a deep PHP/Laravel background behind me.
+I am a software engineer focused on backend systems, AI-enabled products, and cloud infrastructure. I work across the full product lifecycle: understanding requirements, designing architecture and data models, building APIs and interfaces, automating deployment, and operating production services.
 
-I own the full delivery path: turning requirements into architecture, designing APIs and data models, containerizing services, building CI/CD, and running workloads in production on GCP, AWS, and Linux VPSs. Everything listed below under Projects is something I built and shipped myself — including the parts that were not fun.
+My current engineering focus is **Python and FastAPI**, supported by experience with **PHP and Laravel**, modern Vue/Nuxt applications, relational databases, Docker, and cloud platforms.
 
-My current direction is production AI engineering: LLM-powered applications, agent systems, MCP integrations, model serving, and MLOps.
+I value clear architecture, reliable systems, useful automation, and products that solve real problems.
 
-I work asynchronously and write things down. Several of the projects below were built solo from empty repository to live users, which means the specs, decisions, and postmortems all had to exist in writing.
+---
+
+## Flagship Project
+
+### [Miqrar — Saudi B2B Supplier Discovery](https://miqrar.com)
+
+An Arabic-first B2B supplier discovery and procurement-intelligence platform for Saudi Arabia.
+
+Miqrar helps business buyers discover, evaluate, and compare manufacturers, suppliers, and service providers, then initiate enquiries through structured RFQ workflows. It is designed as an independent sourcing advisor rather than a transaction marketplace.
+
+**Engineering highlights**
+- Designed the product architecture, supplier data model, and category structure for a Saudi-focused B2B directory.
+- Built structured supplier profiles and discovery workflows around business activities, locations, products, and services.
+- Developed a source-backed data curation process with human review before supplier information is published.
+- Designed buyer-facing supplier comparison and request-for-quotation workflows.
+- Built an Arabic-first experience, including search normalization and localized content structures.
+- Designed the platform to evolve toward AI-assisted procurement and agent-compatible access to structured supplier data.
+
+**Technology**
+
+`Nuxt 4` `Vue 3` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Google Cloud Run` `Cloud Storage` `Docker` `GitHub Actions`
 
 ---
 
 ## Selected Projects
 
 ### [Sammim](https://sammim.trameaz.com)
+An AI content-generation application for e-commerce merchants. It passed public marketplace review and is available on the Salla App Store.
 
-An AI content-generation app for e-commerce merchants. Passed public marketplace review and is live on the Salla App Store, used by real merchants in production.
-
-`FastAPI` `Vue 3` `GCP Cloud Run` `LLM Integration`
+`FastAPI` `Vue 3` `Google Cloud Run` `LLM Integration`
 
 ### [Synthabase](https://synthabase.com)
-
-A 50,000-conversation dataset published on Hugging Face, built to support language model research. Covered the whole pipeline: generation, deduplication, quality filtering, formatting, and public release.
+A 50,000-conversation dataset published on Hugging Face for language-model research. The work covered generation, deduplication, quality filtering, formatting, and release.
 
 `Dataset Engineering` `Data Pipelines` `Hugging Face` `NLP`
 
 ### [Trameaz](https://trameaz.com)
-
-An AI-powered SaaS platform that generates landing pages and marketing content for small businesses. Built and deployed as a full product, from billing to infrastructure.
+An AI-powered platform for generating landing pages and marketing content for small businesses.
 
 `Laravel` `Vue.js` `SaaS` `Production Deployment`
 
 ### [Basta](https://t.me/BastaStoreBot)
+A Telegram-native storefront for selling digital products, with payments handled through Telegram Stars.
 
-A Telegram-native storefront where creators sell digital products, with payments handled through Telegram Stars. Async Python service backed by Postgres, deployed on Cloud Run.
-
-`FastAPI` `aiogram 3` `SQLAlchemy async` `PostgreSQL` `GCP Cloud Run`
-
-### Fawtera — in development
-
-A business platform for tenders, quotations, and invoicing workflows, including full right-to-left document rendering and PDF generation.
-
-`FastAPI` `Vue 3` `PostgreSQL` `GCP`
+`Python` `FastAPI` `aiogram 3` `PostgreSQL` `Google Cloud Run`
 
 ---
 
@@ -71,23 +84,24 @@ A business platform for tenders, quotations, and invoicing workflows, including 
 | Area | Technologies |
 | --- | --- |
 | **Backend** | Python, FastAPI, SQLAlchemy, PHP, Laravel, REST APIs |
-| **Databases** | PostgreSQL, MySQL, SQLite, Neon, Firestore |
-| **Cloud & DevOps** | GCP, AWS, Docker, GitHub Actions, Nginx, Linux, CI/CD |
+| **Databases** | PostgreSQL, MySQL, SQLite, Redis |
 | **Frontend** | Vue 3, Nuxt, TypeScript, Tailwind CSS |
-| **Applied AI** | LLM APIs, agents, MCP, RAG, dataset engineering, model serving |
+| **Cloud & DevOps** | Google Cloud Platform, AWS, Docker, GitHub Actions, Nginx, Linux, CI/CD |
+| **Applied AI** | LLM APIs, AI agents, MCP, RAG, data pipelines, model integrations |
 
 ---
 
 ## Current Focus
 
-Building containerized model-serving infrastructure on GCP — deploying open-source models with reproducible builds, observability, and sane rollback paths.
-
-I also have a particular interest in Arabic-language AI systems, an area with far less tooling and far worse benchmarks than English. Working there has meant solving tokenization, right-to-left rendering, and evaluation problems that do not come pre-solved in any library.
+- Building **Miqrar** into a trusted destination for Saudi B2B supplier discovery and procurement research.
+- Developing AI-assisted workflows that make structured business information more useful to buyers.
+- Exploring agent-compatible APIs and MCP interfaces for reliable access to domain-specific data.
+- Building maintainable Python services and production cloud infrastructure.
 
 ---
 
 <div align="center">
 
-Open to remote Backend, Python/FastAPI, Cloud, and AI Engineering roles.
+**Build useful things. Make them reliable. Keep learning.**
 
 </div>
